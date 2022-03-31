@@ -1,0 +1,8 @@
+POST http://localhost:6000/user HTTP/1.1
+Content-Type: application/json
+
+{
+    "Name": "MrJob",
+    "Location": "Korea",
+    "Title": "Add god of full stack developer"
+}
